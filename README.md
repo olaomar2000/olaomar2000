@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I have experience in skills such as:
+⭐ Dart & OOP.
+⭐ Sqflite and shared preferences.
+⭐ Provider and Getx state management solutions.
+⭐ Firebase auth, storage, cloud firestore services.
+⭐ Experience in REST APIs.
+⭐ Responsive Design.
+⭐ Experience with Google maps API.
