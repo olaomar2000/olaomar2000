@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### I have experience in skills such as:
-⭐ Dart & OOP.
-⭐ Sqflite and shared preferences.
-⭐ Provider and Getx state management solutions.
-⭐ Firebase auth, storage, cloud firestore services.
-⭐ Experience in REST APIs.
-⭐ Responsive Design.
-⭐ Experience with Google maps API.
+_ ⭐ Dart & OOP.
+_ ⭐ Sqflite and shared preferences.
+_ ⭐ Provider and Getx state management solutions.
+_ ⭐ Firebase auth, storage, cloud firestore services.
+_ ⭐ Experience in REST APIs.
+_ ⭐ Responsive Design.
+_ ⭐ Experience with Google maps API.
