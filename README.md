@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I have experience in skills such as:
+<!-- ### I have experience in skills such as:
 _ ⭐ Dart & OOP.
 _ ⭐ Sqflite and shared preferences.
 _ ⭐ Provider and Getx state management solutions.
 _ ⭐ Firebase auth, storage, cloud firestore services.
 _ ⭐ Experience in REST APIs.
 _ ⭐ Responsive Design.
-_ ⭐ Experience with Google maps API.
+_ ⭐ Experience with Google maps API. -->
