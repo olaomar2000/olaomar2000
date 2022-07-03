@@ -1,9 +1,15 @@
 <!--
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ola Omar!
+###  Hi, I'm Ola!
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 -->
 
-<!-- 
+## ✨ Github State
 
+[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=olaomar2000&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaomar2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olaomar2000&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olaomar2000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaomar2000&theme=synthwave " />
