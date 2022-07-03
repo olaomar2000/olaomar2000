@@ -1,7 +1,6 @@
-<!--
-###  Hi, I'm Ola!
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
--->
+
+## Hi, I'm Ola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">
+  I am a Flutter developer with one year of experience,  I can develop apps for both Android and IOS OS.
 
 ## ✨ Github State
 
